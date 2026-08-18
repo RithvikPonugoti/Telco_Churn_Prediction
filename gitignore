@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+*.egg-info/
+.Python
+build/
+dist/
+
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Environment variables / secrets
+.env
+
+# Large / regenerable data files (optional — see note below)
+# Uncomment if you don't want the raw CSV in your repo history
+# data/telco_churn.csv
+# data/telco_churn_clean.csv

@@ -1,0 +1,15 @@
+{
+  "Logistic Regression": {
+    "roc_auc": 0.8417,
+    "f1_churn": 0.6143
+  },
+  "Random Forest": {
+    "roc_auc": 0.8255,
+    "f1_churn": 0.5569
+  },
+  "XGBoost": {
+    "roc_auc": 0.8388,
+    "f1_churn": 0.6269
+  },
+  "best_model": "Logistic Regression"
+}
